@@ -2,31 +2,31 @@
 
 .. _intro:
 
-はじめに
+Introduction
 ==============
 
-これはDeepL APIを利用したアプリケーションを作成するのに便利なPythonライブラリ、
-deepl.pyのドキュメントです。
+This is the documentation for deepl.py, a library for Python to aid in creating applications that utilise the DeepL API.
 
-前提
+
+Prerequisites
 -----
 
-deepl.pyはPython3.8以降のPythonで動作します。
-以前のバージョンの Python はサポートされていません。
+deepl.py works with Python 3.8.0 or higher. The lower is not supported.
 
 .. _installing:
 
-インストール
+Installing
 ------------
 
-PyPIからライブラリをインストールできます。 ::
+You can get the library directly from PyPI ::
 
     $ python3 -m pip install -U deepl.py
 
-Windowsを使用している場合は、以下のコマンドで実行してください。 ::
+If you are using Windows, then the following should be used instead: ::
 
     $ py -3 -m pip install -U deepl.py
 
-おめでとうございます。これでdeepl.pyを使用するためのセットアップができました。
 
-:doc:`quickstart` で簡単な例を紹介します。
+Congratulations, the setup for using deepl.py is now completed.
+
+You can see some examples here: :doc:`quickstart`
