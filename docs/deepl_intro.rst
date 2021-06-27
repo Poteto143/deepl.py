@@ -2,19 +2,18 @@
 
 .. _deepl_intro:
 
-APIキーを取得する
+Getting an API Key
 ==================
 
-ライブラリとDeepL APIを使用するには、DeepL翻訳のアカウントを用意する必要があります。
-アカウント作成はとても簡単です。
+To use the library and DeepL API, you need a DeepL Pro Account.
+It is easy to get it.
 
-1. DeepL翻訳のサイトにログインします。 `DeepL翻訳 <https://deepl.com>`_
+1. Login to your DeepL Account.  `DeepL Translator <https://deepl.com>`_
 
-2. DeepLアカウントのページに遷移します。 `アカウントページ <https://www.deepl.com/pro-account/plan>`_
+2. Go to your account page. `アカウントページ <https://www.deepl.com/pro-account/plan>`_
 
-3. コピーボタンを押してAPIキーをコピーします。
+3. Push the copy buttom to copy your API Key.
     .. image:: /images/deepl_api_key.png
         :alt: APIキーをコピーする。
 
-これでAPIキーを取得することができました。
-このAPIキーを使ってAPIを使用することができます。
+Now you can use DeepL API with this API Key.
